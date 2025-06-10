@@ -1,11 +1,11 @@
 body {
     background-color: aquamarine;
-    margin: 36px;
+    margin: 32px;
 }
 
 * {
-    margin: 12px;
-    font-family: 'Courier New', Courier, monospace;
+    margin: 8px;
+    font-family: 'Tahoma', sans-serif
 }
 
 .home {
